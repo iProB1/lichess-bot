@@ -1,5 +1,3 @@
-# lichess-bot
-
 ### ♘ Lichess
 *Automatically logins to your account and calculate movement and beats opponent.*
 1. Activate **[Input moves with keyboard]** from Preferences/Game Behavior.
